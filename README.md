@@ -12,7 +12,7 @@ The analysis was conducted to answer the following business questions:
 
 - Is hotel revenue growing?
 - Which hotel type generates the most revenue?
-- Which market segments contribute the highest revenue?
+- Which Customer type distribution contribute the highest revenue?
 - What is the average daily room rate (ADR)?
 - Should parking capacity be expanded?
 - Which countries generate the highest revenue?
@@ -75,7 +75,7 @@ whereas City Hotel generated revenue of $ 3,291,708.05
 - Resort Hotels contributed approximately 51.7% of total revenue.
 - City Hotels contributed approximately 48.3%.
 - Revenue distribution is relatively balanced between the two hotel categories.
-- Resort properties appear to benefit from longer stays and higher leisure demand.
+- Resort properties appear to benefit from longer stays and higher demand on weekends.
 
 # 2. Total Revenue
 
@@ -106,7 +106,7 @@ Average Daily Rate for 2018 is $ 87.18
 
 - Guests paid an average of $87.18 per room per night.
 - ADR indicates a stable pricing strategy.
-- Room pricing appears competitive and sustainable.
+- Room pricing appears suitable for the market.
 
 # 5. Revenue by Market Segment
 
@@ -122,7 +122,7 @@ Undefined	                              $48.00
 # Insights
 
 - Online Travel Agencies (OTA) generated the highest revenue.
-- OTA channels are the primary customer acquisition source.
+- OTA channels are the primary source to get new customers.
 - Travel agencies and tour operators significantly influence bookings.
 - Corporate bookings contribute a relatively small share of total revenue.
 - Increasing direct bookings could improve profit margins by reducing OTA commission costs.
@@ -143,7 +143,7 @@ Switzerland	                $64.61K
 
 # Insights
 
-- Portugal is the dominant revenue-generating market.
+- Portugal is the highest revenue-generating country for the hotels.
 - Spain and the United Kingdom are the next highest-performing countries.
 - Most revenue originates from European travelers.
 - Domestic and regional tourism drives a significant portion of hotel revenue.
