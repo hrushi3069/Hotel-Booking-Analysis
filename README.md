@@ -2,7 +2,7 @@
 
 # Project Overview
 
-This project analyzes hotel booking data to uncover valuable business insights related to revenue generation, customer behavior, market performance, and operational demand. The dataset contains 21,996 hotel booking records from 2018 and was processed using SQL Server, Python, and SQL before being visualized in Tableau.
+This project analyzes hotel booking data to discover new business insights related to revenue generation, customer behavior, market performance, and operational demand. The dataset contains 21,996 hotel booking records from 2018 and was processed using SQL Server, Python, and SQL before being visualized in Tableau.
 
 The objective of this project was to simulate a real-world business intelligence workflow, transforming raw booking data into actionable insights that can help hotel management improve decision-making and optimize business performance.
 
@@ -31,9 +31,9 @@ The analysis was conducted to answer the following business questions:
 
 # 1. Data Preparation
 
-- Imported CSV hotel booking data using Python.
-- Loaded data into SQL Server.
-- Validated and cleaned the imported dataset.
+-Imported hotel booking data from a CSV file using Python.
+-Loaded 21,996 booking records into SQL Server.
+-Verified successful data import by validating dataset structure, row counts, and data availability for analysis.
 
 # 2. SQL Analysis
 
@@ -151,12 +151,10 @@ Switzerland	                $64.61K
 
 #  Project Outcome
 
-This project demonstrates a complete end-to-end Data Analytics workflow:
-
 - Data Import using Python
 - Database Management with SQL Server
 - Data Analysis using SQL
 - Business Intelligence Reporting
 - Interactive Dashboard Development with Tableau
 
-The project showcases practical skills in data analysis, SQL querying, business intelligence, KPI development, data visualization, and business storytelling.
+This project of mine showcases practical skills in data analysis, SQL querying, business intelligence, KPI development, data visualization, and business storytelling.
