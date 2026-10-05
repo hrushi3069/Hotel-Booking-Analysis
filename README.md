@@ -2,7 +2,7 @@
 
 # Project Overview
 
-This project analyzes hotel booking data to discover new business insights related to revenue generation, customer behavior, market performance, and operational demand. The dataset contains 21,996 hotel booking records from 2018 and was processed using SQL Server, Python, and SQL before being visualized in Tableau.
+This project analyzes hotel booking data to discover new business insights related to revenue generation, customer behavior, market performance, and parking demand. The dataset contains 21,996 hotel booking records from 2018 and was processed using SQL Server, Python, and SQL before being visualized in Tableau.
 
 The objective of this project was to simulate a real-world business intelligence workflow, transforming raw booking data into actionable insights that can help hotel management improve decision-making and optimize business performance.
 
