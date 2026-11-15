@@ -1,7 +1,7 @@
 # Hotel-Booking-Analysis
 ##  Dashboard
 
-![Hotel Booking Dashboard](Dashboard%20Image/dashboard.png)
+![Hotel Booking Dashboard](Dashboard%20Image/hotel_dashboard.png)
 
 # Project Overview
 
